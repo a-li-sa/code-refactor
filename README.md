@@ -16,7 +16,7 @@ GIVEN a webpage meets accessibility standards
 * [Installation](#installation)
 * [Usage](#usage)
 * [Changes in index.html](#changes-in-index.html)
-* [Changes in style.css](#changes-in-style.css)
+* [Changes](#changes)
 * [Credits](#credits)
 
 ## Installation
@@ -27,9 +27,11 @@ To look at the webpage, you can click [here](https://a-li-sa.github.io/code-refa
 
 Scroll or click on the navigation links in the webpage to view the content. 
 
-## Changes in index.html 
+## Changes
 
-### new html / old html
+### index.html
+
+**new html / old html**
 
 line 8 / line 7
 - changed title from `"website"` to `"Horiseon Social Solution Services. Inc."`
@@ -145,9 +147,9 @@ line 111 / line 79
 
 added comments on lines 4, 11, 18, 21, 38, 41, 44, 53, 62, 73, 76, 85, 94, 105
 
-## Changes in style.css 
+### style.css
 
-### new css / old css
+**new css / old css**
 
 line 13 / line 49
   - moved `p` selector, after the `body` selector
