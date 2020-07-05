@@ -15,7 +15,6 @@ GIVEN a webpage meets accessibility standards
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Changes in index.html](#changes-in-index.html)
 * [Changes](#changes)
 * [Credits](#credits)
 
