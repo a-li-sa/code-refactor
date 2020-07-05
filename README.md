@@ -11,8 +11,6 @@ GIVEN a webpage meets accessibility standards
 - [x] WHEN I view the heading attributes THEN they fall in sequential order
 - [x] WHEN I view the title element THEN I find a concise, descriptive title
 
----
-
 ## Summary
 
 * [Installation](#installation)
@@ -21,25 +19,13 @@ GIVEN a webpage meets accessibility standards
 * [Changes in CSS](#changes-in-style.css)
 * [Credits](#credits)
 
----
-
-<a name="installation"></a>
-
 ## Installation
 
-To look at the web page, you can click [here](http://github.com).
-
----
-
-<a name="usage"></a>
+To look at the webpage, you can click [here](https://a-li-sa.github.io/code-refactor/).
 
 ## Usage 
 
-Screenshot from Desktop
-
----
-
-<a name="changes-in-HTML"></a>
+Scroll or click on the navigation links in the webpage to view the content. 
 
 ## Changes in index.html 
 
@@ -159,10 +145,6 @@ line 111 / line 79
 
 added comments on lines 4, 11, 18, 21, 38, 41, 44, 53, 62, 73, 76, 85, 94, 105
 
----
-
-<a name="changes-in-CSS"></a>
-
 ## Changes in style.css 
 
 ### new css / old css
@@ -223,15 +205,9 @@ lines 142, 149 / lines 191, 198
 
 added comments on lines 7, 17, 35, 59, 88, 108, 121, 140
 
----
-
-<a name="credits"></a>
-
 ## Credits
 
 The HTML and assets were provided by 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
----
 
 ## License 
 
