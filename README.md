@@ -30,6 +30,8 @@ Scroll or click on the navigation links in the webpage to view the content.
 
 ### index.html
 
+added comments on lines 4, 11, 18, 21, 38, 41, 44, 53, 62, 73, 76, 85, 94, 105
+
 **new html / old html**
 
 line 8 / line 7
@@ -142,11 +144,9 @@ line 106 / line 74
 line 111 / line 79
 - semantic HTML: changed `</div>` to `</footer>`
 
----
-
-added comments on lines 4, 11, 18, 21, 38, 41, 44, 53, 62, 73, 76, 85, 94, 105
-
 ### style.css
+
+added comments on lines 7, 17, 35, 59, 88, 108, 121, 140
 
 **new css / old css**
 
@@ -201,10 +201,6 @@ line 135 / lines 89, 94, 99
 
 lines 142, 149 / lines 191, 198
   - changed `.footer` to `footer`
-
----
-
-added comments on lines 7, 17, 35, 59, 88, 108, 121, 140
 
 ## Credits
 
