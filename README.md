@@ -17,6 +17,7 @@ GIVEN a webpage meets accessibility standards
 * [Usage](#usage)
 * [Changes](#changes)
 * [Credits](#credits)
+* [License](#license)
 
 ## Installation
 
@@ -24,7 +25,9 @@ To look at the webpage, you can click [here](https://a-li-sa.github.io/code-refa
 
 ## Usage 
 
-Scroll or click on the navigation links in the webpage to view the content. 
+Scroll or click on the navigation links in the webpage to view the content.
+
+![](horiseon.gif)
 
 ## Changes
 
